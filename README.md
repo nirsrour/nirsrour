@@ -26,7 +26,7 @@
 Hey, whats up? My name is <strong> Nir Srour</strong>, a passionate Data Analyst 📊 from Israel <img src="https://media.giphy.com/media/Q5dRTG49iIWJKuL2pS/giphy.gif" width="40">
 
 This repository serves as a showcase of my data analysis projects and skills.
-- 🎓  I am  Pursuing my B.Sc in Industrial Engineering and Management (specializing in Information Systems and Operations management)
+- 🎓  I am  pursuing my B.Sc in Industrial Engineering and Management (specializing in Information Systems and Operations management)
       and about to graduate.
   
 - 👨‍💻 I enjoy coding and analyzing data. I am really enthusiastic about learning new technology.
@@ -40,7 +40,7 @@ This repository serves as a showcase of my data analysis projects and skills.
 
 ### 🛠️ Skills and technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=py,css,html,js,php,vscode,visualstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,css,html,js,php,vscode,visualstudio,mysql,django&theme=dark)](https://skillicons.dev)
 
 ---
 Here are some of the key skills I've developed as a data analyst student:
