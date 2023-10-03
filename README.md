@@ -20,29 +20,28 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
 ### :man_technologist: About Me :
-
 Hey, whats up? My name is <strong> Nir Srour</strong>, a passionate Data Analyst 📊 from Israel <img src="https://media.giphy.com/media/Q5dRTG49iIWJKuL2pS/giphy.gif" width="40">
 
 This repository serves as a showcase of my data analysis projects and skills.
-- 🎓  I am  pursuing my B.Sc in Industrial Engineering and Management (specializing in Information Systems and Operations management)
+- 🎓  I am pursuing my B.Sc in Industrial Engineering and Management (specializing in Information Systems and Operations management)
       and about to graduate.
   
-- 👨‍💻 I enjoy coding and analyzing data. I am really enthusiastic about learning new technology.
+- 👨‍💻 I enjoy coding and analyzing data 📈. I am really enthusiastic about learning new technologies 💻.
 
 
 - ⚽ Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from football to gardening :seeding: and designing 🛋️.
 
 
-- :mailbox:Contact me:<a href=mailto:nirsrour@gmail.com> <img src="https://camo.githubusercontent.com/556d31e33284493410899e0647e373a99399d4a8468e6a6b7d883a43f1bc992e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+- :mailbox:Contact me:<a href=mailto:nirsrour@gmail.com>  <img src="https://camo.githubusercontent.com/556d31e33284493410899e0647e373a99399d4a8468e6a6b7d883a43f1bc992e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white"></a>
 
 
 ### 🛠️ Skills and technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=py,css,html,js,php,vscode,visualstudio,mysql,django,arduino,vercel&theme=dark)](https://skillicons.dev)
 
----
+
+
 Here are some of the key skills I've developed as a data analyst student:
 
 - Data Cleaning and Preprocessing
@@ -54,5 +53,6 @@ Here are some of the key skills I've developed as a data analyst student:
 - SQL for Data Retrieval
 - Data Wrangling with Pandas
 - Data Presentation and Reporting
-
+  
+---
 
