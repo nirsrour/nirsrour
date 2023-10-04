@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nirsrour/nirsrour/master/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/nirsrour/nirsrour/master/waves.svg" width="100%" height="150">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc3dWNwaW8zaW41djhlOWYybHl1dTdoZDMybnY1N3ZuZG5lNXZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lg6vO9CNlQmUna1c5i/giphy.gif" width="200"/>
 </div>
