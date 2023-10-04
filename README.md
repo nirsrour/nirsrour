@@ -24,11 +24,11 @@
 
 Hello, I am **Nir Srour**, tech savvy who loves working with data 📊. I am from Israel <img src="https://media.giphy.com/media/Q5dRTG49iIWJKuL2pS/giphy.gif" width="40"> and this is my repository where I showcase my data analysis projects and skills.
 
-🎓 I am studying Industrial Engineering and Management (with a focus on Information Systems and Operations management) and I am about to graduate with a B.Sc degree.
+- 🎓 I am studying Industrial Engineering and Management (with a focus on Information Systems and Operations management) and I am about to graduate with a B.Sc degree.
 
-👨‍💻 I like coding and analyzing data 📈. I am always eager to learn new technologies 💻.
+- 👨‍💻 I like coding and analyzing data 📈. I am always eager to learn new technologies 💻.
 
-⚽ Besides tech, I also enjoy challenging myself to learn new skills. My hobbies include football ⚽ and sports, gardening 🌱, and designing 🛋️.
+- ⚽ Besides tech, I also enjoy challenging myself to learn new skills. My hobbies include football ⚽ and sports, gardening 🌱, and designing 🛋️.
 
 
 ### 🛠️ Languages and Skills:
