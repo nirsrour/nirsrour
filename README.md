@@ -60,7 +60,7 @@ Here are some of the key skills I've developed as a data analyst student:
 - Data Visualization (using tools like Matplotlib, Seaborn, or Plotly)
 - Statistical Analysis
 - Hypothesis Testing
-- Machine Learning (if applicable)
+- Machine Learning
 - SQL for Data Retrieval
 - Data Wrangling with Pandas
 - Data Presentation and Reporting
