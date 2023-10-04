@@ -35,11 +35,11 @@ This repository serves as a showcase of my data analysis projects and skills.
 
 
 
-### 🛠️ Skills and technologies:
+### 🛠️ Languages and Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=py,css,html,js,php,vscode,visualstudio,mysql,django,arduino,vercel&theme=dark)](https://skillicons.dev)
 
-### Platforms:
+### 🔎 Technologies and Platforms:
 <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
@@ -52,7 +52,7 @@ This repository serves as a showcase of my data analysis projects and skills.
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white">
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+
 
 Here are some of the key skills I've developed as a data analyst student:
 
@@ -73,4 +73,6 @@ Here are some of the key skills I've developed as a data analyst student:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 
