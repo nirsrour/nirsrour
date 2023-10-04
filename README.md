@@ -20,18 +20,15 @@
 </div>
 
 
-### :man_technologist: About Me :
-Hey, whats up? My name is <strong> Nir Srour</strong>, a passionate Data Analyst 📊 from Israel <img src="https://media.giphy.com/media/Q5dRTG49iIWJKuL2pS/giphy.gif" width="40">
+### :man_technologist: About Me: 
 
-This repository serves as a showcase of my data analysis projects and skills.
-- 🎓  I am pursuing my B.Sc in Industrial Engineering and Management (specializing in
-       Information Systems and Operations management) and about to graduate.
-  
-- 👨‍💻 I enjoy coding and analyzing data 📈. I am really enthusiastic about learning new technologies 💻.
+Hello, I am **Nir Srour**, tech savvy who loves working with data 📊. I am from Israel <img src="https://media.giphy.com/media/Q5dRTG49iIWJKuL2pS/giphy.gif" width="40"> and this is my repository where I showcase my data analysis projects and skills.
 
+🎓 I am studying Industrial Engineering and Management (with a focus on Information Systems and Operations management) and I am about to graduate with a B.Sc degree.
 
-- ⚽ Outside the world of tech, I enjoy pushing myself to develop new skills.
-      My hobbies range from football and sports to gardening 🌱 and designing 🛋️.
+👨‍💻 I like coding and analyzing data 📈. I am always eager to learn new technologies 💻.
+
+⚽ Besides tech, I also enjoy challenging myself to learn new skills. My hobbies include football ⚽ and sports, gardening 🌱, and designing 🛋️.
 
 
 ### 🛠️ Languages and Skills:
