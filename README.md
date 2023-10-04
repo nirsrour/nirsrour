@@ -69,10 +69,11 @@ Here are some of the key skills I've developed as a data analyst student:
 <a href=mailto:nirsrour@gmail.com>  <img src="https://camo.githubusercontent.com/556d31e33284493410899e0647e373a99399d4a8468e6a6b7d883a43f1bc992e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white"></a>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 
 
+<br>
 <div align="center">
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" >
 </div>
